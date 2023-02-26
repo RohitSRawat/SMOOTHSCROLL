@@ -1,5 +1,4 @@
 const smoothscroll = () => {
-
    var $= window.jQuery
 var start = true
 
