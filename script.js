@@ -1,3 +1,5 @@
+const smoothscroll = () => {
+
    var $= window.jQuery
 var start = true
 
@@ -192,3 +194,7 @@ $(window).on('wheel', function(e){
     }
   }
 });
+
+
+
+}
